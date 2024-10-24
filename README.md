@@ -30,14 +30,20 @@ The collected data has been stored in the Comma Separated Value file Zomato.csv.
 ## Inferences:
 
 1. What type of restaurant do the majority of customers order from?
+------ Majority of the resturant falls in dinning category.
 
 2. How many votes has each type of restaurant received from customers?
+------Dinning resturant has recieved maximum votes
 
 3. What are the ratings that the majority of restaurants have received?
-
+-------The majority resturants received ratings from 3.5 to 4
+   
 4. Zomato has observed that most couples order most of their food online.What is their average spending on each order?
-
+-------The majority of couples prefer resturants with an approximate cost of 300 rupees.
+   
 5. Which mode (online or offline) has received the maximum rating?
-
-6. Which type of restaurant received more offline orders, so that the zomato can give customers with good offers? 
+-------offline order received lower rating in comparision to online order.
+   
+6. Which type of restaurant received more offline orders, so that the zomato can give customers with good offers?
+------- Dinning resturants primarily accept offline orders,where as cafes primarily receive online order.This suggests that clients prefers to place orders in person in restaurants,but prefer online ordering at cafes.
 
